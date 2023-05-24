@@ -1,6 +1,16 @@
 tar -cvf backup.tar finaldraft.sh
+(-c - Create the archive | -v - Show the process verbosely | -f - Name the archive)
+(The above command is used to create a tar backup)
 
 
-tar -czf backup.tar.gz finaldraft.sh 
+tar -czf backup.tar.gz finaldraft.sh
+(-c - Create the archive | -v - Show the process verbosely | -f - Name the archive | -z - Compressed gzip archive file)
+
+
+tar --exclude file.txt --exclude file.sh -cvfz backup.tar.gz
+(Exclude files when creating a tar backup)
+
 
 tar -xvfz backup.tar.gz
+(-x - Extract the content | -v - Show the process verbosely | -f - Name the archive | -z - compressed gzip archive file)
+(Extract content from a tar (.gz) backup)
