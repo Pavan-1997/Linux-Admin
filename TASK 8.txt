@@ -1,0 +1,6 @@
+Sent email to team 
+
+* * * * * sh /apps/opt/mail.sh
+
+crontab -l
+(Configure cron jobs)
