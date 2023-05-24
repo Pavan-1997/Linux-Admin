@@ -3,27 +3,26 @@ Step1 : yum install NetworkManager
 Step2: systemctl start NetworkManager
 
 Step3: systemctl enable NetworkManager
-To make sure it is up 24/7
-
+(To make sure it is up 24/7)
 
 Step4 : nmcli connection show --active
 
+Step5: nmcli device status
 
-Step 5: nmcli device status
+Step6: nmcli connection add type ethernet ifname eth0
 
+Step7: nmcli connection show 
 
-nmcli connection add type ethernet ifname eth0
+Step8: nmcli connection up ethernet-eth0
 
-nmcli connection show 
+Step9: nmcli connection show --active
 
-nmcli connection up ethernet-eth0
+Step10: nmcli connection modify ethernet-eth0 ipv4.address 172.31.16.0/20
 
-nmcli connection show --active
+Step11: nmcli connection modify ethernet-eth0 ipv4.method manual
 
+Step12: nmcli connection down ethernet-eth0
 
-nmcli connection modify ethernet-eth0 ipv4.address 172.31.16.0/20
-
-
-nmcli connection modify ethernet-eth0 ipv4.method manual
-
+        nmcli connection up ethernet-eth0
+(To bring the connection down and up)
 
