@@ -16,5 +16,5 @@ A repository can be configured locally or remotely.
 
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/7f7fd78f-1625-403b-a6e2-dae5d97a4ed9)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
