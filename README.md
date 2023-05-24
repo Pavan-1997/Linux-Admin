@@ -94,10 +94,26 @@ Outputs of few steps shown below
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/7a51f961-d828-45fc-b60f-79a7bb059586)
 
 
+==========================================================================
 
 
+TASK 4 --- TAR BACKUPS
+---------------------------------------------------
 
 
+==========================================================================
+
+
+TASK 5 --- TUNING OF LINUX SYSTEMS
+---------------------------------------------------
+
+The profiles provided with tuned are divided into two categories: power-saving profiles, and performance-boosting profiles. The performance-boosting profiles include profiles focus on the following aspects:
+• Low latency for storage and network
+• High throughput for storage and network
+• Virtual machine performance
+• Virtualization host performance
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/1583fe35-b4ca-4eae-9657-6ffd0641d77a)
 
 
 
