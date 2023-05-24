@@ -1,0 +1,15 @@
+Step1: Install a new hard disk drive
+
+Step2: Designate Physical Volumes
+
+pvcreate /dev/vda1
+
+
+Step3: Manage Volume Groups
+
+vgcreate vgname /dev/vda1
+
+
+Step4: Manage Logical Volumes The VG can be subdivided into one or more Logical Volumes (LVs)
+
+lvcreate -L size -n lvname vgname
