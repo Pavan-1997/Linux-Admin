@@ -180,3 +180,22 @@ TASK 9 --- SWAP PARTITION
 The swap partition serves as overflow space for your RAM. If your RAM fills up completely, any additional applications will run off the swap partition rather than RAM.
 
 Prioritization and Hibernation are the end goals for using the SWAP
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/5935f8bb-3ce3-4b33-aa3c-0e8f2cb1e042)
+
+
+==========================================================================
+
+
+TASK 10 --- LOGICAL VOLUME MANAGEMENT
+---------------------------------------------------
+
+Logical Volume Management enables the combining of multiple individual hard drives and/or disk partitions into a single volume group (VG). That volume group can then be subdivided into logical volumes (LV) or used as a single large volume.
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/49ecfce3-05fa-479d-9158-24e5f0486c77)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/b63bb2f5-33d7-49b9-910c-54715bd3e1c3)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/a8b02d36-540b-4982-bc5c-345f9a3200f4)
+
+
