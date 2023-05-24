@@ -58,6 +58,11 @@ Step9:
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/eb271a8f-d502-4efd-8261-b1a343b99856)
 
 
+Step12 & Step13:
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/426096d2-4975-4c8c-90e9-a1036a6d6d2d)
+
+
 ==========================================================================
 
 
