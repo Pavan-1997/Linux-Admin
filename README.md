@@ -133,6 +133,32 @@ For account
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/f52f0d1a-d9ef-42c5-b9cd-8e0203658427)
 
 
+==========================================================================
+
+
+TASK 7 --- SE-LINUX
+---------------------------------------------------
+
+SELinux stands for Security Enhanced Linux, which is an access control system that is built into the Linux kernel. It is used to enforce the resource policies that define what level of access users, programs, and services have on a system. 
+
+Outputs of few steps shown below
+
+Step1:
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/1c55c45f-41fc-43e1-a55c-a51a4ce811af)
+
+
+Step2:
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/28cb3d9f-01b7-4020-8902-34cb232f0d98)
+
+
+Step3:
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/e86252ba-62a5-4659-8e4c-818260f43f08)
+
+
+
 
 
 
