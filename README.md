@@ -66,6 +66,42 @@ Step12 & Step13:
 ==========================================================================
 
 
+TASK 3 --- RESETTIING ROOT PASSWORD OF LINUX-CENTOS
+---------------------------------------------------
+
+Outputs of few steps shown below
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/15b14f8b-4add-4e61-9a21-edeb6c8e9c38)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/4a34f7e4-b3a7-4c88-8aee-db04e9df03ae)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/7540f23c-9096-44cc-8996-ded9d65e7a03)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/34819dec-c02d-4afb-8987-517ae6ad920b)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/e38fa064-f669-40e1-a4c1-1afa3acd6eb7)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/3e072e27-912c-48d5-85ac-b13d9529f5c5)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/43567b35-2915-40bb-a54c-08256cb8135f)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/c15777d3-6cdf-4d05-bfaf-ec43f79b65a1)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/a291682f-6ccf-428f-ba81-6cd2ed99280b)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/df1e94a1-d3ef-49b5-8c3a-502cbd345053)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/7a51f961-d828-45fc-b60f-79a7bb059586)
+
+
+
+
+
+
+
+
+
+
 
 
 
