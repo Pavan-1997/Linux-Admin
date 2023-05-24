@@ -38,4 +38,30 @@ Step5:
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/eefd1c14-fd38-4ed4-b203-a938bfe46fee)
 
 
-Step
+Step6:
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/962022d2-10db-4d80-ae84-0f045aad9d1a)
+
+
+Step7:
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/e723ae86-ee08-4a91-938e-03379fa1388a)
+
+
+Step8:
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/7069894f-06c5-4619-acb5-5d0eb054c878)
+
+
+Step9:
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/eb271a8f-d502-4efd-8261-b1a343b99856)
+
+
+==========================================================================
+
+
+
+
+
+
