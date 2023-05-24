@@ -1,4 +1,5 @@
 TASK 1 --- MANUALLY SETUP REPO 
+------------------------------
 
 YUM stands for Yellow Dog Updater Manager.
 
@@ -17,4 +18,9 @@ A repository can be configured locally or remotely.
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/7f7fd78f-1625-403b-a6e2-dae5d97a4ed9)
 
 ==========================================================================
+
+TASK 2 --- CONFIGURING IP NETWOKKING WITH NMCLI
+
+The nmcli (NetworkManager Command Line Interface) command-line utility is used for controlling NetworkManager and reporting network status.
+
 
