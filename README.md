@@ -19,7 +19,9 @@ A repository can be configured locally or remotely.
 
 ==========================================================================
 
+
 TASK 2 --- CONFIGURING IP NETWOKKING WITH NMCLI
+------------------------------------------------
 
 The nmcli (NetworkManager Command Line Interface) command-line utility is used for controlling NetworkManager and reporting network status.
 
