@@ -158,8 +158,17 @@ Step3:
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/e86252ba-62a5-4659-8e4c-818260f43f08)
 
 
+==========================================================================
 
 
+TASK 8 --- CRON JOB 
+---------------------------------------------------
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/cdec84d4-7ec5-4f28-bb03-022c8d19ac59)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/23f57d95-715f-4736-8d74-c8fbdf6ef106)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/98017304-71f5-45c8-9b3a-205e1761333e)
 
 
 
