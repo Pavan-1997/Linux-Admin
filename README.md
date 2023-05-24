@@ -171,4 +171,12 @@ TASK 8 --- CRON JOB
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/98017304-71f5-45c8-9b3a-205e1761333e)
 
 
+==========================================================================
 
+
+TASK 9 --- SWAP PARTITION 
+---------------------------------------------------
+
+The swap partition serves as overflow space for your RAM. If your RAM fills up completely, any additional applications will run off the swap partition rather than RAM.
+
+Prioritization and Hibernation are the end goals for using the SWAP
