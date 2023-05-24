@@ -116,6 +116,21 @@ The profiles provided with tuned are divided into two categories: power-saving p
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/1583fe35-b4ca-4eae-9657-6ffd0641d77a)
 
 
+==========================================================================
+
+
+TASK 6 --- CREATE A GROUP AND ACCOUNT
+---------------------------------------------------
+
+Need to create groups before creating any account otherwise we have to use existing groups at your system
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/4d8441b4-1bee-4a1e-82d5-bab0d00d0130)
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/725b655f-79bf-47f1-bbd7-c532f8ab87de)
+
+For account
+
+![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/f52f0d1a-d9ef-42c5-b9cd-8e0203658427)
 
 
 
