@@ -1,0 +1,22 @@
+Step1: Boot to Recovery Mode
+
+For resetting the root password we need to reboot our computer. When the system restarts, press the “ESC” key immediately to interrupt the boot process and select the kernel from the GRUB/Boot menu you want to boot into by pressing the arrow keys
+
+Step2: Pressing ‘e’ from your keyboard will open the editing menu
+
+Step3: In the editing menu, locate the “ro” kernel parameter and replace it with “rw,” and add an additional parameter “init=/sysroot/bin/sh”
+
+Step4: Press Ctrl + X to enter into the single-user mode once you are done with the previous step
+
+Step5: Now run the “chroot /sysroot” command to convert the root file system in read and write mode
+
+Step6: Set a new password for root, input the command (Changing the password for user root)
+
+Step7: Set a new password for root, input the command
+
+Step8: SELinux relabelling (to set the permissions for files or folders)
+
+Step9: Exit from Terminal
+
+Step10: Hit Reboot
+
