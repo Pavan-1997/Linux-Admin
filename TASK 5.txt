@@ -1,0 +1,14 @@
+groupadd [-g gid [-o]] [-r] [-f] groupname
+
+groupmod -n <modified-name> <old-name>
+(TO modify group name to new group name)
+
+groupmod -g 545 <group-name>
+(Will change the Group id(GID) of a group)
+
+
+============================================================
+
+
+useradd -d /home/singam/ -g testers -s /bin/bash -m pavan
+(Add user to group)
