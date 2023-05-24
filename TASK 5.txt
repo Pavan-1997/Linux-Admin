@@ -10,5 +10,5 @@ groupmod -g 545 <group-name>
 ============================================================
 
 
-useradd -d /home/singam/ -g testers -s /bin/bash -m pavan
+useradd -d /home/pavan/ -g testers -s /bin/bash -m pavan
 (Add user to group)
