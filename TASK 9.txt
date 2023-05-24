@@ -1,0 +1,22 @@
+fdisk /dev/vda
+(Create a swap partition)
+
+Press n [ N for new ]
+
++512 M
+
+t –> For type of partition 82 number is for SWAP
+
+w [quit]
+
+partprobe /dev/vda3 [ To let the kernel know about partition ]
+
+mkswap /dev/vda3 [ To use the swap partition ]
+
+mount –a [To check for errors]
+
+vi /etc/fstab [For permanent mount]
+
+/dev/vda3 swap swap
+
+swapon -s
