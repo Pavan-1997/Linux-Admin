@@ -1,0 +1,20 @@
+SELINUX=enforcing|permissive|disabled — Defines the toplevel state of SELinux on a system.
+•enforcing —The SELinux security policy is enforced.
+•permissive —The SELinux system prints warnings but does not enforce policy.
+•disabled— SELinux is fully disabled. SELinux hooks are disengaged from the kernel and the pseudo-file system is unregistered.
+
+SELINUXTYPE=targeted|strict— Specifies which policy SELinux should enforce.
+•targeted— Only targeted network daemons are protected.
+•strict— Full SELinux protection, for all daemons. Security contexts are defined for all subjects and objects, and every action is processed by the policy enforcement server.
+
+
+To configure
+
+
+Step1: sestatus
+(To check status of se-linux)
+
+Step2: cat /etc/selinux/config
+(Check the status in config file)
+
+Step3: Change SELinux mode
