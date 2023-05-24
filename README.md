@@ -1,7 +1,6 @@
 TASK 1 --- MANUALLY SETUP REPO 
 
 YUM stands for Yellow Dog Updater Manager.
-
 Yum is the default package management utility in RHEL/Centos.
 
 Yum uses repository to get the necessary rpm files.
