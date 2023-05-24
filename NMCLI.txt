@@ -26,3 +26,8 @@ Step12: nmcli connection down ethernet-eth0
         nmcli connection up ethernet-eth0
 (To bring the connection down and up)
 
+Step12: nmcli connection modify ethernet-eth0 ipv4.gateway “172.31.16.1”
+(Modify IPV4 Gateway)
+
+Step13: nmcli connection modify ethernet-eth0 ipv4.dns “172.31.16.103”
+(Modify DNS)
