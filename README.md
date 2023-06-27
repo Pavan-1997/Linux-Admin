@@ -18,7 +18,7 @@ A repository can be configured locally or remotely.
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/7f7fd78f-1625-403b-a6e2-dae5d97a4ed9)
 
 
-==========================================================================
+---
 
 
 TASK 2 --- CONFIGURING IP NETWOKKING WITH NMCLI
@@ -63,7 +63,7 @@ Step12 & Step13:
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/426096d2-4975-4c8c-90e9-a1036a6d6d2d)
 
 
-==========================================================================
+---
 
 
 TASK 3 --- RESETTIING ROOT PASSWORD OF LINUX-CENTOS
@@ -94,14 +94,14 @@ Outputs of few steps shown below
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/7a51f961-d828-45fc-b60f-79a7bb059586)
 
 
-==========================================================================
+---
 
 
 TASK 4 --- TAR BACKUPS
 ---------------------------------------------------
 
 
-==========================================================================
+---
 
 
 TASK 5 --- TUNING OF LINUX SYSTEMS
@@ -116,7 +116,7 @@ The profiles provided with tuned are divided into two categories: power-saving p
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/1583fe35-b4ca-4eae-9657-6ffd0641d77a)
 
 
-==========================================================================
+---
 
 
 TASK 6 --- CREATE A GROUP AND ACCOUNT
@@ -133,7 +133,7 @@ For account
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/f52f0d1a-d9ef-42c5-b9cd-8e0203658427)
 
 
-==========================================================================
+---
 
 
 TASK 7 --- SE-LINUX
@@ -158,7 +158,7 @@ Step3:
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/e86252ba-62a5-4659-8e4c-818260f43f08)
 
 
-==========================================================================
+---
 
 
 TASK 8 --- CRON JOB 
@@ -171,7 +171,7 @@ TASK 8 --- CRON JOB
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/98017304-71f5-45c8-9b3a-205e1761333e)
 
 
-==========================================================================
+---
 
 
 TASK 9 --- SWAP PARTITION 
@@ -184,7 +184,7 @@ Prioritization and Hibernation are the end goals for using the SWAP
 ![image](https://github.com/Pavan-1997/Linux_Admin/assets/32020205/5935f8bb-3ce3-4b33-aa3c-0e8f2cb1e042)
 
 
-==========================================================================
+---
 
 
 TASK 10 --- LOGICAL VOLUME MANAGEMENT
